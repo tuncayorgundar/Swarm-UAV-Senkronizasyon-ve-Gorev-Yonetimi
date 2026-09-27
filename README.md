@@ -1,5 +1,14 @@
 # Swarm-UAV-Senkronizasyon-ve-Gorev-Yonetimi
 
+> [!IMPORTANT]
+> ## 🔒 Takım Gizliliği ve Kaynak Kod Politikası
+>
+> Bu proje, takımımıza ve proje ortaklarımıza ait özel bilgi, yöntem ve uygulamaları içermektedir. **Takım gizliliğini, fikrî emeği ve proje güvenliğini korumak amacıyla kaynak kodlar bu depoda paylaşılmamaktadır.**
+>
+> Bu README; projenin amacı, mimarisi ve kullanılan teknolojiler hakkında genel bir bakış sunar. Kodun tamamı ve ayrıntılı uygulama bileşenleri yalnızca yetkili takım üyelerinin erişimine açıktır.
+>
+> 📩 Proje hakkında daha fazla bilgi için depo sahibiyle iletişime geçebilirsiniz.
+
 ## 📝 Proje Özeti
 Birden fazla İnsansız Hava Aracı'nın koordineli ve otonom bir şekilde görev icra etmesini sağlayan merkezi ve dağıtık kontrol sistemidir. Proje, İHA'ların birbirleriyle haberleşerek karmaşık geometrik formasyonlar oluşturmasına ve çarpışmadan görev tamamlamasına odaklanır.
 
